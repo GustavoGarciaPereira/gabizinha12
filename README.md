@@ -21,7 +21,7 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gabrielle-cristine-de-lima-pereira/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/gabrielle-cristine-de-lima-pereira" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"/>
   
    <a href="mailto:gabrielle.clima23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/gmail.png"/>
