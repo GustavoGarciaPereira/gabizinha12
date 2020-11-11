@@ -6,6 +6,8 @@
 <h2>Sou entusiasta Javascript e atualmente estou estudando JS ES6, NodeJS, ReactJS, e todo seu ecossistema</h2>
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabizinha12"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabizinha12&layout=compact&theme=radical" />
 </a>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gabizinha12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+
 
 <h3>:computer: Competências:</h3>
 
