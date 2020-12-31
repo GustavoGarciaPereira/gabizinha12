@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-<code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes" width="40" height="40"/></code>&nbsp;
+<code><img src="https://user-images.githubusercontent.com/51785898/91358293-f0581000-e7c8-11ea-95f0-f1a8e29ee9d1.png" alt="Testes"  height="20"/></code>
 
 
 <p align="justify">
