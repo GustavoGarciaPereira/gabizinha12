@@ -11,7 +11,7 @@
 ```javascript
   async user.index({
    nome: 'Gabrielle Lima',
-   idade: 19   
+   idade: 19,
    cidade: 'São Paulo, SP',
    stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'MySQL', 'Jest'],
    hobbies: ['Videogames', 'Mangá', 'Cozinhar', 'Aprender coisas novas']
